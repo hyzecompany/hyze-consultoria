@@ -15,6 +15,6 @@ Entradas novas no topo. Modelo:
 
 - Feito: site da Hyze Consultoria (serviços, onde atendemos, planos, como funciona, FAQ,
   diagnóstico gratuito via formulário) usando o design system e as animações do hyze-ui.
-- Feito também: repositório criado a partir do monorepo `hyzecompany` (histórico anterior fica no
-  monorepo legado em `Desenvolvimentos\hyzecompany`).
+- Feito também: repositório criado a partir do antigo monorepo `hyzecompany` (já removido);
+  todos os repos ficam lado a lado em `Documents\Desenvolvimentos\hyzecompany`.
 - Pendente: primeiro push para `github.com/hyzecompany/hyze-consultoria` (script `publicar-github.ps1`).
